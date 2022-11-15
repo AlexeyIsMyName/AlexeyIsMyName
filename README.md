@@ -1,5 +1,7 @@
 ![I am beginner iOS Developer](https://github.com/AlexeyIsMyName/AlexeyIsMyName/blob/main/IOS.png)
 
+<h1 align="center">Hi there 👋, I'm Aleksey Suslov</h1>
+
 ### Hi there 👋, I'm Aleksey Suslov
 #### I am beginner iOS Developer
 
