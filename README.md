@@ -13,10 +13,7 @@ I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment
 
 ## 🌱 I’m currently learning AutoLayout and Multithreading 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyismyname)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Presentations
-
 <p><a href="https://www.youtube.com/watch?feature=player_embedde&v=HSYThXrL6Z4" target="_blanck"><img src="http://img.youtube.com/vi/HSYThXrL6Z4/0.jpg" alt="HSYThXrL6Z4" width = "240" height="180" border="10" /></a></p>
 
 
@@ -35,4 +32,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyismyname)](https://github.com/anuraghazra/github-readme-stats)
 -->
