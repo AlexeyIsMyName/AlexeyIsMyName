@@ -19,6 +19,9 @@ I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment
 * Доклад "Git Основы"
 
 <a href="https://www.youtube.com/watch?feature=player_embedde&v=HSYThXrL6Z4" target="_blanck"><img src="http://img.youtube.com/vi/HSYThXrL6Z4/0.jpg" alt="HSYThXrL6Z4" width = "240" height="180" border="10" /></a>
+Доклад "Git Основы"
+
+
 
 <!--
 ### Hi there 👋
