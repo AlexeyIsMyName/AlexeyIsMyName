@@ -16,9 +16,7 @@ I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyismyname)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Presentations
-
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/HSYThXrL6Z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?feature=player_embedde&v=HSYThXrL6Z4" target="_blanck"><img src="http://img.youtube.com/vi/HSYThXrL6Z4/0.jpg" alt="HSYThXrL6Z4" width = "240" height="180" border="10" /></a>
    
    
 <!--
