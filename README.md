@@ -17,9 +17,8 @@ I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment
 <p><a href="https://www.youtube.com/watch?feature=player_embedde&v=HSYThXrL6Z4" target="_blanck"><img src="http://img.youtube.com/vi/HSYThXrL6Z4/0.jpg" alt="HSYThXrL6Z4" width = "240" height="180" border="10" /></a></p>
 
 ## Certificates
+<p><a href="https://t.me/swiftmarathon" target="_blanck"><img src="https://github.com/AlexeyIsMyName/AlexeyIsMyName/blob/main/image.jpg" alt="swiftmarathon" width = "240" height="180" border="10" /></a></p>
 <p><a href="https://swiftbook.org/" target="_blanck"><img src="https://github.com/AlexeyIsMyName/AlexeyIsMyName/blob/main/Certificate_4212.jpg" alt="swiftbook.org" width = "240" height="180" border="10" /></a></p>
-
-
 
 
 <!--
