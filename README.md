@@ -13,6 +13,8 @@ I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment
 * 📱 iOS SDK, Core Data
 * 💻 CocoaPods / Realm / Firebase / Keychain / JSON
 
+<img align="right" src="https://cdn.dribbble.com/users/846207/screenshots/5495768/apple-logo-2018.gif" alt="yandex_academy" width = "400" border="10"/>
+
 ## Presentations
 <a href="https://www.youtube.com/watch?feature=player_embedde&v=HSYThXrL6Z4" target="_blanck"><img src="http://img.youtube.com/vi/HSYThXrL6Z4/0.jpg" alt="HSYThXrL6Z4" width = "240" height="180" border="10" /></a>
 
