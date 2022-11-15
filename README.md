@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi there 👋, I'm Aleksey Suslov</h1>
 
-### Hi there 👋, I'm Aleksey Suslov
 #### I am beginner iOS Developer
 
 I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment. I really enjoy learning Swift programming language, native frameworks made by Apple and dependencies like Realm, Firebase or Alamofire and so on. Currently I prepare myself to be ready for jobs interviews.
