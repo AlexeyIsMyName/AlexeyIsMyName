@@ -16,6 +16,9 @@ I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment
 ## Presentations
 <p><a href="https://www.youtube.com/watch?feature=player_embedde&v=HSYThXrL6Z4" target="_blanck"><img src="http://img.youtube.com/vi/HSYThXrL6Z4/0.jpg" alt="HSYThXrL6Z4" width = "240" height="180" border="10" /></a></p>
 
+## Certificates
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 <!--
 ### Hi there 👋
