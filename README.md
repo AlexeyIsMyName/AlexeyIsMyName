@@ -6,11 +6,9 @@ I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment
 
 Skills: Swift / Xcode / iOS SDK / CocoaPods / Realm / Core Data / Firebase / Keychain / JSON
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Swift basics, AutoLayout and Multithreading 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyismyname)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 <!--
