@@ -2,7 +2,7 @@
 
 I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment. I really enjoy learning Swift programming language, native Apple frameworks and dependencies like Realm, Firebase or Alamofire and so on. Currently I prepare myself to be ready for jobs interviews.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseyismyname)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyismyname)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
