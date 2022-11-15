@@ -1,9 +1,7 @@
 ![I am beginner iOS Developer](https://github.com/AlexeyIsMyName/AlexeyIsMyName/blob/main/IOS.png)
 
 <h1 align="center">Hi there 👋, I'm Aleksey Suslov</h1>
-<h2 align="center">Beginner iOS Developer</h2>
-
-#### I am beginner iOS Developer
+<h3 align="center">Beginner iOS Developer</h3>
 
 I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment. I really enjoy learning Swift programming language, native frameworks made by Apple and dependencies like Realm, Firebase or Alamofire and so on. Currently I prepare myself to be ready for jobs interviews.
 
@@ -26,6 +24,7 @@ I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment
 
 <!--
 ### Hi there 👋
+#### I am beginner iOS Developer
 **AlexeyIsMyName/AlexeyIsMyName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
