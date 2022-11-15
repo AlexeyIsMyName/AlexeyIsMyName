@@ -1,9 +1,12 @@
 ![I am beginner iOS Developer](https://github.com/AlexeyIsMyName/AlexeyIsMyName/blob/main/IOS.png)
 
-### Hi there 👋, my name is Aleksey Suslov
+### Hi there 👋, I'm Aleksey Suslov
 #### I am beginner iOS Developer
 
 I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment. I really enjoy learning Swift programming language, native frameworks made by Apple and dependencies like Realm, Firebase or Alamofire and so on. Currently I prepare myself to be ready for jobs interviews.
+
+## Skills amd Experience
+* Swift
 
 Skills: Swift / Xcode / iOS SDK / CocoaPods / Realm / Core Data / Firebase / Keychain / JSON
 
