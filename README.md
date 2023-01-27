@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Aleksey Suslov</h1>
 <h3 align="center">Beginner iOS Developer</h3>
 
-I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment. I really enjoy learning Swift programming language, native frameworks made by Apple and dependencies like Realm, Firebase or Alamofire and so on. Currently I prepare myself to be ready for jobs interviews.
+I'm Aleksey from Saint-Petersburg, Russia. I study iOS Development at the moment. I really enjoy learning Swift programming language, native frameworks made by Apple and dependencies like Realm, Firebase or Alamofire and so on. Currently I study iOS dev at Alfa-Campus by AlfaBank.
 
 * 🌱 I’m currently learning AutoLayout and Multithreading.
 
